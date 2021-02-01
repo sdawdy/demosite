@@ -35,7 +35,7 @@ defaults:
       author: "Spenser Dawdy" # default author could be Spectacle Staff or Anonymous, etc... by contrast for a personal site having an author on posts would be unncessary
       category: "jekyll" # SD - probably don't want a default category for your specific site. For a personal site you probably would want a default category
 
-# permalink: none
+permalink: none
 comments: true
 # Build settings
 plugins:
